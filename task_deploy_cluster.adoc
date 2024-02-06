@@ -197,7 +197,7 @@ The page is automatically refreshed at regular intervals.
 You should confirm the ONTAP Select AutoSupport feature is configured and then back up the ONTAP Select Deploy configuration data.
 
 [TIP]
-If the cluster creation operation is initiated but fails to complete, the ONTAP administrative password you define might not be applied. If this occurs, contact NetApp technical support for assistance.
+If the cluster creation operation is initiated but fails to complete, the ONTAP administrative password you define might not be applied. In this case, contact NetApp Customer Support.
 
 // 2023-09-13, ONTAPDOC-1306
 // 2023-10-17, adding hyperlink
