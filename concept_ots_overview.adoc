@@ -90,8 +90,6 @@ Modifying the properties of the ONTAP ports, including speed, duplex, and flow-c
 
 * SVM migration
 
-* Storage VM disaster recovery (SVM DR)
-
 * SnapLock Compliance
 
 * Tamperproof Snapshot copies
