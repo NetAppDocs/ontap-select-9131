@@ -78,6 +78,8 @@ The traditional health monitoring used with a hardware-based ONTAP deployment is
 * Interface groups
 Interface groups are not supported.
 
+* Multi-Tenant Key Manager (MTKM) 
+
 * NIC offload support
 Due to the virtualized environment used with ONTAP Select, the NIC offload facility is not supported.
 
