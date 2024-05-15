@@ -12,8 +12,10 @@ settings:
   versions:
     - version-number: "9.13.1"
       url: /ontap-select-9131
-    - version-number: "9.14.1"
+    - version-number: "9.15.1"
       url: /ontap-select      
+    - version-number: "9.14.1"
+      url: /ontap-select-9141      
     - version-number: "9.12.1"
       url: /ontap-select-9121    
     - version-number: "9.11.1"
@@ -329,5 +331,5 @@ sidebar:
     - title: FAQ
       url: /reference_faq.html
     - title: Legal notices
-      url: /reference_legal_notices.html   
+      url: /legal-notices.html   
 # 2023 Feb 06, Burt 1512785
