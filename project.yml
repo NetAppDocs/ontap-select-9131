@@ -20,8 +20,6 @@ settings:
       url: /ontap-select-9121    
     - version-number: "9.11.1"
       url: /ontap-select-9111    
-    - version-number: "9.10.1"
-      url: /ontap-select-9101      
 sidebar:
   entries:
     - title: ONTAP Select 9.13.1 docs
